@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Simple Library for sending data</Title>
+    <PackageId>My.Custom.SMS.Library</PackageId>
+    <AssemblyName>My.Custom.SMS.Library</AssemblyName>
+    <Authors>Martin</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Twilio" Version="6.8.0" />
+  </ItemGroup>
+
+</Project>

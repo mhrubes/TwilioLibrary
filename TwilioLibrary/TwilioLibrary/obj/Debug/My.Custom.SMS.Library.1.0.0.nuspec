@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>My.Custom.SMS.Library</id>
+    <version>1.0.0</version>
+    <title>Simple Library for sending data</title>
+    <authors>Martin</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Twilio" version="6.8.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\source\repos\TwilioLibrary\TwilioLibrary\bin\Debug\net7.0\My.Custom.SMS.Library.dll" target="lib\net7.0\My.Custom.SMS.Library.dll" />
+  </files>
+</package>
