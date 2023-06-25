@@ -13,6 +13,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\User\source\repos\TwilioLibrary\TwilioLibrary\bin\Debug\net7.0\My.Custom.SMS.Library.dll" target="lib\net7.0\My.Custom.SMS.Library.dll" />
+    <file src="C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\bin\Debug\net7.0\My.Custom.SMS.Library.dll" target="lib\net7.0\My.Custom.SMS.Library.dll" />
   </files>
 </package>

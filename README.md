@@ -15,21 +15,19 @@ using TwilioLibrary.Models;
 var gateway = new TwilioGateway(
     "YourTwilioAccountSid",
     "YourTwilioAuthToken",
-    "+YourTwilioPhoneNumber");
+    "+YourTwilioPhoneNumber",
+    MESSAGE_MAX_LENGTH_NOT_OPTIONAL-DEFAULT-255);
 
 // Create message
 var message = new SmsMessage
 {
     RecipientNumber = "+PHONE_NUMBER",
-    Body = "Hello from Twilio!"
+    Body = "Hello from this program!"
 };
 
-// Send message
-bool isSent = gateway.SendSms(message);
-
 // Checking message
-string msg = isSent ? "SMS was sent successfully." : "Failed to send SMS.";
-Console.WriteLine(msg);
+string res = gateway.SendSms(message);
+Console.WriteLine(res);
 
 Console.ReadLine();
 ```

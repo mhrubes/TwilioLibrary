@@ -1759,11 +1759,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\TwilioLibrary\\TwilioLibrary\\TwilioLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\TwilioLibrary\\TwilioLibrary\\TwilioLibrary\\TwilioLibrary.csproj",
       "projectName": "My.Custom.SMS.Library",
-      "projectPath": "C:\\Users\\User\\source\\repos\\TwilioLibrary\\TwilioLibrary\\TwilioLibrary.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\TwilioLibrary\\TwilioLibrary\\TwilioLibrary\\TwilioLibrary.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\TwilioLibrary\\TwilioLibrary\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\TwilioLibrary\\TwilioLibrary\\TwilioLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1774,6 +1774,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\User\\source\\repos\\TwilioLibrary\\TwilioLibrary\\bin\\Debug": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -10,3 +10,15 @@ C:\Users\User\source\repos\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\My.Custo
 C:\Users\User\source\repos\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\refint\My.Custom.SMS.Library.dll
 C:\Users\User\source\repos\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\My.Custom.SMS.Library.pdb
 C:\Users\User\source\repos\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\ref\My.Custom.SMS.Library.dll
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\bin\Debug\net7.0\My.Custom.SMS.Library.deps.json
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\bin\Debug\net7.0\My.Custom.SMS.Library.dll
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\bin\Debug\net7.0\My.Custom.SMS.Library.pdb
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\TwilioLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\TwilioLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\TwilioLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\TwilioLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\TwilioLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\My.Custom.SMS.Library.dll
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\refint\My.Custom.SMS.Library.dll
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\My.Custom.SMS.Library.pdb
+C:\Users\User\Desktop\TwilioLibrary\TwilioLibrary\TwilioLibrary\obj\Debug\net7.0\ref\My.Custom.SMS.Library.dll
