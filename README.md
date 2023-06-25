@@ -16,7 +16,7 @@ var gateway = new TwilioGateway(
     "YourTwilioAccountSid",
     "YourTwilioAuthToken",
     "+YourTwilioPhoneNumber",
-    MESSAGE_MAX_LENGTH_NOT_OPTIONAL-DEFAULT-255);
+    MESSAGE_MAX_LENGTH_NOT_OPTIONAL-DEFAULT-255-INT);
 
 // Create message
 var message = new SmsMessage
